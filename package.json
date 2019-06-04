@@ -1,0 +1,13 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "aonidn1 Bot Official",
+  "main": "index.js",
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "index.js": "0.0.3",
+    "loader.js": "^4.7.0"
+  }
+}
